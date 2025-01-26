@@ -1,0 +1,15 @@
+p{
+  color: blue;
+}
+
+h1{
+  font-weight: bold;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.Weather{
+  border: 1px solid black;
+}
