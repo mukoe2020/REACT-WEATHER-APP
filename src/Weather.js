@@ -26,9 +26,9 @@ export default function Weather(props) {
     });
 
     return(<Circles
-    height="80"
-    width="80"
-    color="red"
+    height="100"
+    width="100"
+    color="blue"
     ariaLabel="circles-loading"
     wrapperStyle={{}}
     wrapperClass=""
